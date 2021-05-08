@@ -1,0 +1,17 @@
+configuration {
+	width: 30;
+	show-icons: false;
+	lines: 4;
+	columns: 1;
+	font: "iosevka 10";
+	bw: 1;
+	padding: 4;
+	eh: 1;
+	auto-select: false;
+	line-margin: 18;
+	separator-style: "solid";
+	hide-scrollbar: true;
+	theme: "theme";
+}
+
+@import "/usr/local/share/rofi/themes/Monokai.rasi"
